@@ -1,27 +1,12 @@
-# 📚 Linguagem de Programação
+# Linguagem de Programação
 
-Repositório destinado ao armazenamento e à organização de **provas, exercícios e gabaritos** da disciplina de Linguagem de Programação.
+Repositório destinado ao armazenamento de provas e respectivos gabaritos de conteúdos relacionados a programação.
 
-## 📂 Conteúdo
+## Conteúdo
 
-- 📝 Provas
-- ✅ Gabaritos
-- 📖 Materiais de apoio
-- 💻 Exercícios e resoluções
-
-## 🎯 Objetivo
-
-Manter um registro organizado dos materiais da disciplina, facilitando consultas, revisões e estudos.
-
-## 🛠️ Tecnologias
-
-- Linguagem C
-- Git e GitHub
+- Provas
+- Gabaritos
 
 ---
 
-<p align="center">
-  <i>Organização, prática e aprendizado.</i>
-  <br>
-  <b>Black & White</b>
-</p>
+**Linguagem de Programação** | Repositório acadêmico
